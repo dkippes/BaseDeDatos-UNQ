@@ -1,0 +1,7 @@
+2. Modelar la entidad Aparato, usado por una empresa de reparación de aparatos electrónicos. 
+Se cuentacon los siguientes datos:
+Marca Un aparato seguro que tiene una marca, y sólo una.
+Modelo Lo mismo que con la marca, todo aparato es de un determinado modelo de esa marca.
+Tipo Lo más común es que un aparato sea de un único tipo: de audio, de TV, de video o de computadora, pero también hay aparatos que integran varios medios, por lo que podría haber aparatos que combinen hasta tres tipos.
+Serie El número de serie de un aparato es el que lo identifica unívocamente dentro de todos los aparatos producidos de determinado modelo de una marca.
+Garantía compuesto por FECHA DE COMPRA, y COMERCIO VENDEDOR, que se registra sólo para los aparatos que ingresan a la empresa a repararse en garantía.
